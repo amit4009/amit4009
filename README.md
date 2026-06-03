@@ -1,73 +1,36 @@
 # Amit Pandit
 
-**Data Scientist | Applied ML, Product Analytics, Experimentation & Risk Modeling**
+**Data Scientist | Applied ML • Product Analytics • Risk Modeling • MLOps**
 
-I build data science projects that connect modeling, analytics, and decision-making. My work focuses on applied machine learning, product experimentation, customer behavior analysis, risk modeling, NLP, and dashboard-driven business intelligence.
+I build practical data science systems that turn messy data into decisions — from credit risk models and churn analytics to NLP pipelines, experimentation frameworks, and business dashboards.
 
-I am especially interested in roles where data science directly improves product decisions, model reliability, customer retention, risk assessment, and operational reporting.
+My work sits at the intersection of **machine learning, product analytics, customer behavior, and decision intelligence**.
 
-## Focus Areas
+## What I Work On
 
-* Applied Machine Learning and Model Evaluation
-* Product Analytics and Experimentation
-* Customer Churn and Retention Analytics
-* Credit Risk and Loan Portfolio Analysis
-* NLP, Text Classification, and Sentiment Analysis
-* MLOps, Reproducible Pipelines, and Deployment-Ready Workflows
-* SQL, Dashboarding, and Executive Reporting
+* Applied ML, model evaluation, and deployment-ready workflows
+* Product analytics, experimentation, and metric frameworks
+* Credit risk, loan analytics, churn, and retention modeling
+* NLP, sentiment analysis, text classification, and transformer models
+* SQL, BI dashboards, and executive-ready reporting
 
-## Featured Projects
+## Featured Work
 
-### Text Classification MLOps Pipeline
+* **Text Classification MLOps Pipeline** — DVC, MLflow, Docker, Flask, GitHub Actions
+* **Credit Default MLOps Pipeline** — credit risk modeling, threshold tuning, CI/CD structure
+* **Customer Churn Prediction Dashboard** — SQL, Random Forest, Power BI, retention analytics
+* **Fake News Detection with BERT** — Hugging Face Transformers, PyTorch, NLP classification
+* **Bank Loan Portfolio Dashboard** — SQL, Power BI, loan KPIs, good/bad loan reporting
+* **Sentiment Analysis with Neural Networks** — GloVe, CNN, LSTM, Flask deployment
 
-End-to-end NLP classification pipeline using DVC, MLflow, Docker, Flask, and GitHub Actions.
-**Focus:** reproducible ML workflows, experiment tracking, model packaging, and deployment-ready structure.
+## Core Stack
 
-### Credit Default MLOps Pipeline
+**Python, SQL, Scikit-learn, TensorFlow, PyTorch, Hugging Face, MLflow, DVC, Docker, Flask, Power BI, Tableau, Snowflake, AWS, Azure**
 
-Credit default prediction workflow using classification modeling, threshold evaluation, Flask deployment, and CI/CD structure.
-**Focus:** credit risk assessment, false-positive reduction, model evaluation, and decision reliability.
+## Current Focus
 
-### Customer Churn Prediction Dashboard
-
-Customer churn analysis using Python, SQL, Random Forest, and Power BI dashboarding.
-**Focus:** churn modeling, customer segmentation, retention drivers, and business-facing reporting.
-
-### Fake News Detection with BERT
-
-BERT-based fake news classification using Hugging Face Transformers and PyTorch.
-**Focus:** NLP classification, transformer modeling, misinformation detection, and model evaluation.
-
-### Bank Loan Portfolio Analytics Dashboard
-
-SQL and Power BI dashboard for loan applications, funded amount, repayments, good/bad loan segmentation, and borrower analysis.
-**Focus:** financial analytics, KPI reporting, loan portfolio monitoring, and risk reporting.
-
-### Sentiment Analysis with Neural Networks
-
-IMDb sentiment classification using neural networks, GloVe embeddings, CNN, LSTM, and Flask.
-**Focus:** text preprocessing, sequence modeling, model comparison, and sentiment prediction.
-
-## Technical Skills
-
-**Languages:** Python, SQL
-**Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers
-**Analytics:** Pandas, NumPy, Statistical Modeling, Experimentation, Cohort Analysis
-**MLOps:** MLflow, DVC, Docker, GitHub Actions, Flask
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-**Databases & Cloud:** Snowflake, AWS, Azure, Databricks
-
-## What I Am Building Toward
-
-I am strengthening my portfolio around applied data science systems that are practical, measurable, and business-relevant:
-
-* Risk and credit decisioning workflows
-* Product experimentation and metric frameworks
-* Reproducible NLP and ML pipelines
-* Customer behavior and retention analytics
-* BI dashboards for financial and operational decisions
+Building a portfolio around **applied ML systems, experimentation, risk decisioning, NLP, and analytics products** that are practical, measurable, and business-relevant.
 
 ## Connect
 
-* [Linkedin](https://www.linkedin.com/in/amit-pandit-9a03b4170/)
-* Email: amitpandit3103@gmail.com
+[LinkedIn](https://www.linkedin.com/in/amit-pandit-9a03b4170/) · [GitHub](https://github.com/amit4009) · [Email](amitpandit3103@gmail.com)
