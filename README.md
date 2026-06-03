@@ -14,15 +14,6 @@ My work sits at the intersection of **machine learning, product analytics, custo
 * NLP, sentiment analysis, text classification, and transformer models
 * SQL, BI dashboards, and executive-ready reporting
 
-## Featured Work
-
-* **Text Classification MLOps Pipeline** — DVC, MLflow, Docker, Flask, GitHub Actions
-* **Credit Default MLOps Pipeline** — credit risk modeling, threshold tuning, CI/CD structure
-* **Customer Churn Prediction Dashboard** — SQL, Random Forest, Power BI, retention analytics
-* **Fake News Detection with BERT** — Hugging Face Transformers, PyTorch, NLP classification
-* **Bank Loan Portfolio Dashboard** — SQL, Power BI, loan KPIs, good/bad loan reporting
-* **Sentiment Analysis with Neural Networks** — GloVe, CNN, LSTM, Flask deployment
-
 ## Core Stack
 
 **Python, SQL, Scikit-learn, TensorFlow, PyTorch, Hugging Face, MLflow, DVC, Docker, Flask, Power BI, Tableau, Snowflake, AWS, Azure**
